@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "Web Shaking",
+  "version": "1.0.0",
+  "content_scripts": [
+    {
+      "js": ["script.js"],
+      "matches": ["http://*/*","https://*/*"]
+    }
+  ]
+}
