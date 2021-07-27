@@ -7,5 +7,6 @@
       "js": ["script.js"],
       "matches": ["http://*/*","https://*/*"]
     }
-  ]
+  ],
+  "icons": {"128":"icon.png"}
 }
